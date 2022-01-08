@@ -1,4 +1,4 @@
-# YOLOHelmet-Demo
+# YOLOHelmet
 
 YOLOHelmet-Demo
 
